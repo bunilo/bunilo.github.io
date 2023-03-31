@@ -32,6 +32,7 @@ function openContainer($selected) {
 
 
 function readfile($file){
+    console.clear();
     var client = new XMLHttpRequest();
     client.open('GET', $file);
     client.onload = function() {
@@ -214,7 +215,6 @@ function readfile($file){
             var threes;
             var threes2;
             var files_threes = full_text.split(",");
-            console.log(files_threes);
             const amount1 = files_threes.length/3;
             const rest1 = files_threes.length%3;
             if (rest1 !== 0) {
@@ -237,7 +237,6 @@ function readfile($file){
             var fours2;
             var fours3;
             var files_fours = full_text.split(",");
-            console.log(files_fours);
             const amount = files_fours.length/4;
             const rest = files_fours.length%4;
             if (rest !== 0) {
