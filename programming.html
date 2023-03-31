@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Programming portfolio - Gaia</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $('#head').load('../partials/header.html');
+            $('#navbar').load('../partials/navbar.html');
+        });
+    </script>
+</head>
+<body>
+    <div id="head"></div>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top" id="navbar">
+        </nav>
+    <div class="row" id="info">
+        <p class="text-center h1 pt-5">Programming portfolio</p>
+        <hr class="col-5 mx-auto">
+        <div class="d-grid gap-2 col-8 mx-auto">
+            <p>
+                This page shows all programming projects that I deem noteworthy or it shows progress.
+                They are in order of time with the most recent at the top.
+                Click on the item to get more information about the project and process.
+            </p>
+        </div>
+    </div>
+    <div class="my-3 p-3" id="projects">
+
+    </div>
+</div>
+</body>
+</html>

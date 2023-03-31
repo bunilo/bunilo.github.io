@@ -1,0 +1,182 @@
+#intro {
+    background-color: #050505;
+    height: 100vh;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#intro-title {
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 160px;
+    font-weight: 900;
+    text-align: center;
+    background-size: 100% 100%;
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+#info {
+    margin-top: 15px;
+}
+
+#banner {
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: center;
+    background-size: cover;
+}
+
+.thumb {
+    height: 500px;
+    width: 31%;
+    font-size: 16px;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: yellow;
+    background-blend-mode: difference;
+    margin: 1%;
+    transition: 1s;
+}
+
+.thumb-title {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    color: whitesmoke;
+    text-align: center;
+    background-image: inherit;
+    background-size: cover;
+    background-color: gray;
+    background-blend-mode: multiply;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    padding: 10px 80px;
+    margin: auto;
+    height: 100%;
+    transition: 1s;
+}
+
+.open {
+    width: 70%;
+    transition: 1s;
+}
+.twist {
+    writing-mode: horizontal-tb;
+    width: 100%;
+    transition: 1s;
+}
+
+.smoll {
+    width: 10%;
+    transition: 1s;
+}
+
+.description {
+    font-size: 16px;
+    padding: 10px;
+    transition: 1s;
+}
+
+.thumb > .thumb-title:hover {
+    padding: 10px 100px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.open > .thumb-title:hover{
+    padding: 10px 80px;
+    transition: 1s;
+    cursor: pointer;
+ }
+
+@keyframes typing {
+    0.0000%, 40.3488% { content: ""; }
+    10.0000%, 37.3488% { content: ""; }
+    11.1395%, 36.2093% { content: "p"; }
+    12.2791%, 35.0698% { content: "pr"; }
+    13.4186%, 34.9302% { content: "pro"; }
+    14.5581%, 33.7907% { content: "prog"; }
+    15.6977%, 32.6512% { content: "progr"; }
+    16.8372%, 31.5116% { content: "progra"; }
+    17.9767%, 30.3721% { content: "program"; }
+    19.1163%, 29.2326% { content: "programm"; }
+    20.2558%, 28.0930% { content: "programmi"; }
+    21.2558%, 27.0930% { content: "programmin"; }
+    22.2558%, 26.0930% { content: "programming"; }
+
+    45.7674%, 55.2791% { content: ""; }
+    46.9070%, 54.1395% { content: "a"; }
+    47.0465%, 53.0000% { content: "ar"; }
+    48.1860%, 52.8605% { content: "art"; }
+
+    64.6977%, 80.2093% { content: ""; }
+    65.8372%, 79.0698% { content: "t"; }
+    66.9767%, 78.9302% { content: "tr"; }
+    67.1163%, 77.7907% { content: "tra"; }
+    68.2558%, 76.6512% { content: "trav"; }
+    69.3953%, 75.5116% { content: "trave"; }
+    70.5349%, 74.3721% { content: "travel"; }
+
+    88.6279%, 100% { content: ""; }
+    89.7674%, 100% { content: "G"; }
+    90.9070%, 100% { content: "Ga"; }
+    92.0465%, 100% { content: "Gai"; }
+    93.1860%, 100% { content: "Gaia"; }
+    94.1860%, 100% { content: "Gaia'"; }
+    95.1860%, 100% { content: "Gaia's"; }
+}
+
+.typer::before {
+    animation: typing 10.5s;
+    content: "Gaia's";
+}
+
+.carousel-item > img {
+    width: 100% !important;
+    height: 73vh !important;
+    object-fit: cover;
+    object-position: center;
+}
+.carousel-item {
+    margin-right: 0;
+}
+.travel-image > img {
+    width: 100% !important;
+    height: 74vh !important;
+    object-fit: contain;
+    object-position: center;
+}
+.travel-image {
+    margin-right: 0;
+}
+
+iframe {
+    width: 840px;
+    height: 472.5px;
+}
+
+.summary {
+    transition: 0.3s;
+}
+
+.summary:hover {
+    transition: 0.5s;
+    color: black;
+}
+
+small {
+    text-align: right;
+    display: block;
+    position: relative;
+    bottom: 0;
+    right: 0;
+}
+
+.btn {
+    width: 100%;
+}

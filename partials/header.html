@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/public/css/bootstrap.css">
+    <link rel="stylesheet" href="/public/css/bootstrap.rtl.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-grid.rtl.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-reboot.rtl.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-utilities.css">
+    <link rel="stylesheet" href="/public/css/bootstrap-utilities.rtl.css">
+    <link rel="stylesheet" href="/public/css/styles.css"  type="text/css">
+    <script src="../public/js/bootstrap.bundle.js"></script>
+    <script src="/public/js/bootstrap.esm.js"></script>
+    <script src="/public/js/bootstrap.js"></script>
+    <script src="/public/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        if (window.location.href.indexOf("/travel.html") > -1) {
+            readfile('public/text/trav.txt');
+        }
+        else if (window.location.href.indexOf("/programming.html") > -1) {
+            readfile('public/text/prog.txt');
+        }
+        else if (window.location.href.indexOf("/art.html") > -1) {
+            readfile('public/text/art.txt');
+        }
+        else if (window.location.href.indexOf("/index.html") > -1) {
+            readfile('public/text/abouts.txt');
+        }
+    </script>
+
+</head>
+<body>
+</body>
+</html>

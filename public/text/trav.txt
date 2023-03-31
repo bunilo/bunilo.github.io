@@ -1,0 +1,85 @@
+Ireland Excursion;
+/img/traveling/IMG-20190314-WA0037.jpg, /img/traveling/IMG-20190314-WA0094.jpg, /img/traveling/IMG-20190314-WA0102.jpg, /img/traveling/IMG-20190314-WA0131.jpg, /img/traveling/IMG-20190315-WA0010.jpg, /img/traveling/IMG_20190314_133616.jpg, /img/traveling/IMG_20190315_103722.jpg, /img/traveling/IMG_20190315_110813.jpg, /img/traveling/IMG_20190315_111057.jpg, /img/traveling/IMG_20190315_142536.jpg, /img/traveling/IMG_20190315_142959.jpg, /img/traveling/IMG_20190317_153539.jpg;
+2019-03-20;
+In March 2019 I went on an 2-week excursion to Ireland, experiencing the culture and studying English.
+<br />We stayed in a village called Carlow, visited Kilkenny and Dublin. When we were in Dublin we participated in the St. Patrick's Day festivities.;
+In March 2019 I went on a 2-week excursion to Ireland. <br />
+During this time I stayed in a village called Carlow for around 12 days and then spend the last 2 days in Dublin. <br />
+The goal of this excursion was to gain experience in English and to experience how the Irish lived and studied. We've visited and  participated in a lesson a Carlow university. <br />
+Further we've explored Kilkenny, which was an absolutely beautiful city, here we even got a tour of a local brewery.  <br />
+When we were in Dublin it was St. Patrick's Day, so we decided to participate in the festivities. <br />
+Overall an amazing experience, the Irish are very open and friendly people and I passed the English exam I took there.
+_____
+KPN Internship;
+/img/traveling/Ev9e4wEWEAQIK6W.webp, /img/traveling/ipc-kpn-logo.jpg;
+2020-03-20;
+In 2020 I followed a half a year internship at KPN.<br />
+KPN is one of the biggest internet providers of the Netherlands. Here I worked in a team but unfortunately covid hit.;
+In February 2020 I started my internship at KPN. <br />
+During my time here I worked full time for half a year, while also doing my test of competence for graduation.<br/>
+KPN is one of the biggest internet providers of the Netherlands which made this an amazing opportunity. <br />
+The main reason I was happy to be an intern at such a big company is because I would be able to see how teams work together.
+Unfortunately covid hit shortly after I started my internship. Slowly I had to work more and more from home until I worked full time from home. <br />
+This was honestly very unfortunate as I wanted to experience working in a team, attend meetings and get to know the people. <br />
+I still kept contact with my client online for if I had questions etc. <br />
+Although I was home alone I still learned a lot, especially on the inner workings of bigger companies, a whole new programming language and how to work remotely.
+<br />Overall still an amazing experience.
+<br />
+<br /> If you want to hear more about the project I completed, you can find it in the programming tab.
+_____
+Brainconsultant Internship;
+/img/traveling/download.png;
+2019-02-01;
+In 2019 I followed a half a year internship at Brainconsultant.<br />
+Brainconsultant is a secondment agency. During my time here I was the only programmer, so I especially improved my communication skill a ton.;
+In February 2019 I started my internship at Brainconsultant. <br />
+During my time here I worked full time for half a year, taking the role of maintaining and improving the website and inner systems while also temporarily taking over the Visual Designer role from a colleague. <br />
+This was my first taste of what my job would be like in the future, and I can confidently say that I found that I indeed like being a programmer.<br />
+I learned how to use Photoshop here for the Visual Design part and improved my communication skills a lot.<br />
+As I was the only programmer in the office, I couldn't use the technical way of speaking. Also I got a lot of feedback on what I was doing, for example they  told me if you show your progress or ask midway if they can take a look or want to make any changes, they can get a better idea of what is going on. <br />
+Not only in the programming area did I get taught how to communicate better, but they also taught me how to pick up the phone, forward calls and communicate with clients.<br />
+<br />
+<br />I feel like I gained a great set of skills here that I will carry with me for future opportunities.
+_____
+Exchange program Hosei University, Tokyo, Japan;
+/img/traveling/20221119_161919.jpg, /img/traveling/20221119_101716.jpg, /img/traveling/20221119_104439.jpg, /img/traveling/20221119_104552.jpg, /img/traveling/20221119_133402.jpg, /img/traveling/20221119_164344.jpg, /img/traveling/20221119_170826.jpg;
+2023-03-24;
+For my minor I decided to do an exchange program abroad for half a year. I chose Japan as I study IT and hope to do something with game development in the future, which both are very big in Japan.<br />
+Hosei University is one of the top universities of Japan with the main campus located in the center of Tokyo.<br />
+As most IT courses were given in Japanese I could only follow Big Data and chose to study the Japanese language and Marketing based courses instead.<br />
+Besides that I of course explored many places in Japan. <br />
+As I haven't fully wrapped this up I will update this post when possible. Including images as although these are beautiful I would like to show more than just Kyoto.;
+As I had a minor coming up I decided to go on an exchange program to Japan instead and follow classes there. <br />
+I ended up getting accepted foor my first choice which was at Hosei University in Tokyo Japan.<br />
+During my studies at Hosei University I stayed at a female only dormitory. Here we got served Japanse food daily and I got to befriend many other exchange students from other countries.<br />
+As my dorm locartion was small compared to the other locations I got quite close with them. There were the following nationalities:
+<br />
+<ul>
+    <li>Australian</li>
+    <li>Taiwanese</li>
+    <li>Mexican</li>
+    <li>Russian</li>
+    <li>American</li>
+    <li>Dutch</li>
+</ul>
+<br />As you can see a nice mix of people so not only did I experience Japanese culture but I also learned a lot from the cultures of the friends I made at Hosei.<br />
+For my course list I unfortunately could only follow one ICT based course which was Big Data and Analytics. I decided to take a lot of marketing courses that had to do with digitisation to see another perspective on my job.<br />
+Further I took some Japanese classes to be able to communicate with the locals, as indeed most do not speak English, making my list the following:
+<br />
+<ul>
+    <li>Topics in Arts <b style="text-align: right">(S)</b></li>
+    <li>Big Data and Analytics <b style="text-align: right">(S)</b></li>
+    <li>Creative Industries <b style="text-align: right">(A)</b></li>
+    <li>Digital marketing <b style="text-align: right">(A+)</b></li>
+    <li>Japanese goods and the Global Economy <b style="text-align: right">(S)</b></li>
+    <li>Japanese 1F (General 1) <b style="text-align: right">(B+)</b></li>
+    <li>Japanese 1F (General 2) <b style="text-align: right">(B+)</b></li>
+    <li>Japanese 1F (General 3) <b style="text-align: right">(B+)</b></li>
+    <li>Probability Models and Applications <b style="text-align: right">(A-)</b></li>
+</ul>
+<br />
+I passed all my exams with an average GPA of 3.15 (American system). The grades have been added in brackets, (), behind the courses.<br />
+<br />
+Besides university I of course explored Japan too where most of Tokyo I have seen. Some of the cities I have visited besides the giant Tokyo are:<br />
+Kyoto, Osaka, Nara, Himeji, Nagano, Yokohama, Kamakura, Kanagawa and Matsumoto.<br />
+As I haven't finished this chapter of my life yet I will update this post when I can. A nice selection of images will be selected too that would summarize my experience here.
