@@ -4,7 +4,7 @@ As mentioned before I am a 3rd year student HBO ICT. During my studies I've gain
 In this section I will showcase my bigger projects. Feel free to ask for more information if needed.
 <br/>
 <br/>
-<a href="/portfolio/programming.html" class="btn btn-warning" type="button">See projects</a>
+<a href="/programming.html" class="btn btn-warning" type="button">See projects</a>
 _____
 
 Art:
@@ -13,7 +13,7 @@ Art and drawing is mostly a hobby of mine that I want to include into my future 
 I have never had any art lessons and am fully self taught. I still wanted to showcase some pieces I have made and will be making in the future, not only for others but also for myself to look back on.
 <br/>
 <br/>
-<a href="/portfolio/art.html" class="btn btn-warning" type="button">See projects</a>
+<a href="/art.html" class="btn btn-warning" type="button">See projects</a>
 _____
 
 Travel:
@@ -22,5 +22,5 @@ This section I have added because I have been on quite a few excursions and even
 Here I will give a summary of my experiences and go into more detail, from what my experience was of the country to what I've studied and what knowledge I gained from being abroad.
 <br/>
 <br/>
-<a href="/portfolio/travel.html" class="btn btn-warning" type="button">See projects</a>
+<a href="/travel.html" class="btn btn-warning" type="button">See projects</a>
 _____
