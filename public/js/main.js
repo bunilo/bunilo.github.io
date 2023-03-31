@@ -175,7 +175,7 @@ function readfile($file){
             if (window.location.href.indexOf("?id=") > -1) {
                 id = window.location.href.substring(window.location.href.indexOf('?id=') + 4, window.location.href.length);
 
-                document.getElementById("info").innerHTML = '<a class="link-secondary" href="/portfolio/programming.html" style="margin-top: 50px; padding-left: 30px; z-index: 100;">< Back</a><small style="margin-top: -20px; padding-right: 30px" class="text-muted">Tags: ' + projects[id].tags.join(', ') + '</small>' +
+                document.getElementById("info").innerHTML = '<a class="link-secondary" href="/programming.html" style="margin-top: 50px; padding-left: 30px; z-index: 100;">< Back</a><small style="margin-top: -20px; padding-right: 30px" class="text-muted">Tags: ' + projects[id].tags.join(', ') + '</small>' +
                     '<p class="text-center h1">' + projects[id].title + '</p>';
 
                 document.getElementById("projects").innerHTML = '\n' +
@@ -252,7 +252,7 @@ function readfile($file){
             if (window.location.href.indexOf("?id=") > -1) {
                 id = window.location.href.substring(window.location.href.indexOf('?id=') + 4, window.location.href.length);
 
-                document.getElementById("info").innerHTML = '<a class="link-secondary" href="/portfolio/travel.html" style="margin-top: 50px; padding-left: 30px; z-index: 100;">< Back</a>' +
+                document.getElementById("info").innerHTML = '<a class="link-secondary" href="/travel.html" style="margin-top: 50px; padding-left: 30px; z-index: 100;">< Back</a>' +
                     '<p class="text-center h1">' + experiences[id].title + '</p>';
 
                 document.getElementById("exp").innerHTML = '\n' +
