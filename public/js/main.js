@@ -213,7 +213,7 @@ function readfile($file){
         else if($file === 'public/text/art.txt'){
             var threes;
             var threes2;
-            var files_threes = full_text.split("\r\n");
+            var files_threes = full_text.split(",");
             console.log(files_threes);
             const amount1 = files_threes.length/3;
             const rest1 = files_threes.length%3;
@@ -236,7 +236,7 @@ function readfile($file){
             var fours;
             var fours2;
             var fours3;
-            var files_fours = full_text.split("\r\n");
+            var files_fours = full_text.split(",");
             console.log(files_fours);
             const amount = files_fours.length/4;
             const rest = files_fours.length%4;

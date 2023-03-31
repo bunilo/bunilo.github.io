@@ -1,9 +1,9 @@
-20221223_233809.jpg
-cut_mark_making.png
-image.png
-image (1).png
-image (2).png
-image (3).png
-image (4).png
-image (5).png
+20221223_233809.jpg,
+cut_mark_making.png,
+image.png,
+image (1).png,
+image (2).png,
+image (3).png,
+image (4).png,
+image (5).png,
 test.jpg
