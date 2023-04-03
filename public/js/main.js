@@ -121,10 +121,10 @@ function readfile($file){
                         '<a class="text-decoration-none" href="?id=' + a + '"> ' +
                         '<div class="text-muted pt-3" id=" ' + a + '">\n' +
                         '                    <div class="row media-body pb-3 mb-0 small lh-125 border-bottom border-gray">\n' +
-                        '                        <div class="col-3">\n' +
+                        '                        <div class="col-3 col-sm-12">\n' +
                         '                            <img alt="thumbnail" class="rounded img-thumbnail" src="public/' + projects[a].img[0] + '"/>\n' +
                         '                        </div>\n' +
-                        '                        <div class="col-9 summary">\n' +
+                        '                        <div class="col-9 col-sm-12 summary">\n' +
                         '                            <p>\n' +
                         '                                <h3 class="d-block text-gray-dark">' + projects[a].title + '</h3>\n' +
                         '                                ' + projects[a].short + '\n' +

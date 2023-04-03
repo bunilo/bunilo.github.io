@@ -62,9 +62,12 @@ As my dorm locartion was small compared to the other locations I got quite close
     <li>American</li>
     <li>Dutch</li>
 </ul>
-<br />As you can see a nice mix of people so not only did I experience Japanese culture but I also learned a lot from the cultures of the friends I made at Hosei.<br />
+<br />
+<p>
+As you can see a nice mix of people so not only did I experience Japanese culture but I also learned a lot from the cultures of the friends I made at Hosei.<br />
 For my course list I unfortunately could only follow one ICT based course which was Big Data and Analytics. I decided to take a lot of marketing courses that had to do with digitisation to see another perspective on my job.<br />
 Further I took some Japanese classes to be able to communicate with the locals, as indeed most do not speak English, making my list the following:
+</p>
 <br />
 <ul>
     <li>Topics in Arts <b style="text-align: right">(S)</b></li>
@@ -78,8 +81,10 @@ Further I took some Japanese classes to be able to communicate with the locals, 
     <li>Probability Models and Applications <b style="text-align: right">(A-)</b></li>
 </ul>
 <br />
+<p>
 I passed all my exams with an average GPA of 3.15 (American system). The grades have been added in brackets, (), behind the courses.<br />
 <br />
 Besides university I of course explored Japan too where most of Tokyo I have seen. Some of the cities I have visited besides the giant Tokyo are:<br />
 Kyoto, Osaka, Nara, Himeji, Nagano, Yokohama, Kamakura, Kanagawa and Matsumoto.<br />
 As I haven't finished this chapter of my life yet I will update this post when I can. A nice selection of images will be selected too that would summarize my experience here.
+</p>

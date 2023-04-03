@@ -181,3 +181,38 @@ small {
 .btn {
     width: 100%;
 }
+
+/*Mobile changes*/
+@media only screen and (max-width: 600px) {
+    #intro-title {
+        font-size: 115px;
+    }
+    .titles {
+        font-size: 50px;
+    }
+    #navbarText {
+        font-size: 23px;
+    }
+    #skip {
+        font-size: 40px;
+    }
+    .btn {
+        font-size: 24px;
+    }
+    .carousel-item > img {
+        height: 30vh !important;
+    }
+    p {
+        font-size: 25px;
+    }
+    .link-secondary {
+        font-size: 30px;
+    }
+    .bi-linkedin {
+        width: 25px;
+        height: 25px;
+    }
+    .ul {
+        font-size: 25px;
+    }
+}

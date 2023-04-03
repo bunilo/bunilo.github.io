@@ -3,18 +3,70 @@
     <meta charset="UTF-8">
     <title>Portfolio - Gaia</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+
+        #loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ffffff;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 9999;
+        }
+
+        #loading-text {
+            font-size: 30px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        #loading-spinner {
+            border: 10px solid #f3f3f3;
+            border-top: 10px solid #f8c314;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        #page {
+            display: block;
+        }
+
+    </style>
     <script>
-        $(document).ready(function() {
-            $('#head').load('/partials/header.html');
-        });
+        window.onload = function() {
+            setTimeout(function() {
+                document.getElementById("loading").style.display = "none";
+                document.getElementById("page").style.display = "block";
+            }, 2000);
+        };
+
     </script>
 </head>
 <body>
+<div id="loading">
+    <div id="loading-text">
+        Loading...
+    </div>
+    <div id="loading-spinner"></div>
+</div>
+<div id="page" style="display: none">
     <div id="head"></div>
     <div class="container-fluid g-0 overflow-hidden top-0">
         <div class="row" id="intro">
             <h1 id="intro-title" style="background-image: url('public/img/traveling/20221119_101716.jpg'); background-size: cover;"><span class="typer"></span> <br/>Portfolio</h1>
-            <a href="#navbar" class="link-light" style="position: absolute; bottom: 0;">
+            <a href="#navbar" class="link-light" id="skip" style="position: absolute; bottom: 0;">
                 skip
                 <br/>
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-caret-down" viewBox="0 0 16 16">
@@ -50,19 +102,19 @@
     <div class="container">
         <div class="row" id="main_page">
             <div class="row" id="info">
-                <p class="text-center h2">About</p>
+                <p class="text-center h2 titles">About</p>
                 <hr class="col-5 mx-auto">
                 <div class="d-grid gap-2 col-8 mx-auto">
                     <p>
                         Welcome to my portfolio. My name is Gaia.<br/>
-                        I am currently a 3rd year HBO ICT student at NHL Stenden, Leeuwarden, Netherlands, focussing on Software Engineering. <br/>
+                        I am currently a 3rd year HBO ICT student at NHL Stenden, Leeuwarden, Netherlands, focusing on Software Engineering. <br/>
                         I already got a MBO ICT degree, again focussing on Software Engineering, at Alfa College, Groningen, Netherlands. During this degree I've had 2 full-time internships of half a year, giving me 1 year of work experience.<br/>
                         My hobbies include drawing and gaming, which I both hope to use in my future career. Besides that I am gaining experience all over the globe, currently being on an exchange program at Hosei University, Tokyo, Japan.<br/>
                         My dream is to one day become a game developer. While trying to reach this goal I want to gain a lot of experience in other sectors of ICT along the way.<br/>
                         Hit the yellow "Curriculum Vitae" button down below to download a pdf of my Curriculum Vitae. <br/>If there are any questions, do not hesitate to contact me. <br/>
                     </p>
                 </div>
-                <div class="d-grid gap-2 col-6 mx-auto">
+                <div class="d-grid gap-2 col-6 col-sm-8 mx-auto">
                     <form method="get" action="public/text/CV-GAIA%20MIGLINO-ENGLISH-2.pdf">
                         <button class="btn btn-warning" type="submit">Curriculum Vitae</button>
                     </form>
@@ -111,5 +163,6 @@
             </div>
         </div>
     </div>
+</div>
 </body>
 </html>

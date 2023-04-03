@@ -24,8 +24,8 @@ I have mostly worked with the arduino which has the following sensors: <br />
   <li>FC-28 (Soil moisture sensor)</li>
   <li>hw-038 (Water level sensor)</li>
 </ul>
-<br /> The data that the arduino collects from these sensors are send to the Android app. The android app the visualises it and gives a notification when something is off. <br />
-If the soil moisture is lower than the value set in the app, the arduino will automatically pump some water into the plant. If the water level of the pump is low a notification will be send to your phone.
+<br /> <p>The data that the arduino collects from these sensors are send to the Android app. The android app the visualises it and gives a notification when something is off. <br />
+If the soil moisture is lower than the value set in the app, the arduino will automatically pump some water into the plant. If the water level of the pump is low a notification will be send to your phone.</p>
 _____
 Eigenmaaltijd;
 /img/programming/Home.png, /img/programming/About-EigenMaaltijd.png, /img/programming/Profiel.png, /img/programming/Gerecht-informatie.png, /img/programming/Gerecht-upload.png;
@@ -86,14 +86,14 @@ This website was made in php.
 The reason why this is pizzacase 1 and there's a 2nd one is because although this project wasn't approved it was quite the accomplishment. The reason why it wasn't approved was because we made everything in php. <br />
 The goal of this website was to make a system that you can order pizza's with. The pizza's needed to have some customization to them such as extra ingredients etc. <br />
 Further you had to use Design patterns and Security patterns for the backend. The patterns we chose were: <br />
-<li>
-    <ul>Singleton</ul>
-    <ul>Composite</ul>
-    <ul>Builder</ul>
-    <ul>Visitor</ul>
-    <ul>Template method</ul>
-</li> <br />
-I currently couldn't find any images but once I am able to reach them this post will be updated.
+<ul>
+    <li>Singleton</li>
+    <li>Composite</li>
+    <li>Builder</li>
+    <li>Visitor</li>
+    <li>Template method</li>
+</ul> <br />
+<p>I currently couldn't find any images but once I am able to reach them this post will be updated.</p>
 _____
 IMDBinfo;
 /img/programming/home-data.png, /img/programming/graph1-data.png, /img/programming/graph2-data.png, /img/programming/graph3-data.png, /img/programming/questions-answers-data.png, /img/programming/R1.png;
@@ -127,26 +127,29 @@ Besides our company goal the robot had a few tests it had to perform.;
 Earthly robotics made a robot in around 2 months to help farmers, governments and households plant seeds for them. <br />
 Besides this it had to go through tests and obstacle courses to get approved by the school.<br />
 To achieve this the robot had the following components: <br />
-<li>
-    <ul>Track-tires attached to gears and motors to drive through dirt</ul>
-    <ul>A hopper to dispense seeds</ul>
-    <ul>An app to automatically plant the seeds with the settings the user put in and select different modes</ul>
-    <ul>A controller for manual movement of the robot but also the arm and magnet</ul>
-    <ul>An arm with an electromagnet to pick things up</ul>
-    <ul>Servos in the track-tires to change the position</ul>
-    <ul>PCB for the controller and the robot itself</ul>
-    <ul>Webcam for object recognition</ul>
-    <ul>Arduino for sending signals to the motors and servos</ul>
-    <ul>Raspberry pi for gathering data and sending it to the app and Arduino</ul>
-</li>
+<ul>
+    <li>Track-tires attached to gears and motors to drive through dirt</li>
+    <li>A hopper to dispense seeds</li>
+    <li>An app to automatically plant the seeds with the settings the user put in and select different modes</li>
+    <li>A controller for manual movement of the robot but also the arm and magnet</li>
+    <li>An arm with an electromagnet to pick things up</li>
+    <li>Servos in the track-tires to change the position</li>
+    <li>PCB for the controller and the robot itself</li>
+    <li>Webcam for object recognition</li>
+    <li>Arduino for sending signals to the motors and servos</li>
+    <li>Raspberry pi for gathering data and sending it to the app and Arduino</li>
+</ul>
+<p>
 The following 3 majors worked together on this project: Electrical Engineering, Mechanical Engineering, Software Engineering (ICT). <br />
 I'll go into depth on what ICT did as I am able to explain this better. ICT worked on the following things: <br />
-<li>
-    <ul>making a website and keeping it up to date</ul>
-    <ul>making the backend of the robot calculations</ul>
-    <ul>making the functionality of the components</ul>
-    <ul>making an app for the users</ul>
-</li><br />
+</p>
+<ul>
+    <li>making a website and keeping it up to date</li>
+    <li>making the backend of the robot calculations</li>
+    <li>making the functionality of the components</li>
+    <li>making an app for the users</li>
+</ul><br />
+<p>
 Now have I worked on the functionality of the components and the research paper. <br />
 For the functionality I mean I worked on the arduino and partly the communication between it and the raspberry pi. The arduino had to drive the servos on incoming signals. <br />
 The magnet was an electromagnet so when twisted the magnet would get a current and become insanely strong. This had to happen on a button press from the controller.<br />
@@ -154,6 +157,7 @@ The tire-tracks had to turn around to be able to get over obstacles. <br />
 The hopper had to dispense seeds so we made it spin with a hole inside. <br />
 And the most difficult part the arm movement. Originally we had a 2 joint arm which you could control with the controller. For this I used inverse kinematics. Unfortunately they didn't add this function in the controller due to lack of time but the code still exists.<br />
 Besides this I made the base code for the motors with the calculations for the gears that Mechanical Engineering gave me.
+</p>
 _____
 KPN Internship;
 /img/20221110_104928.jpg;
