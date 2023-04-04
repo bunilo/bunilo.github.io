@@ -198,7 +198,7 @@ function readfile($file){
                         '<a class="text-decoration-none" href="?id=' + a + '"> ' +
                         '   <div class="text-muted pt-3" id=" ' + a + '">\n' +
                         '       <div class="row media-body pb-3 mb-0 small lh-125 border-bottom border-gray" style="margin: auto">\n' +
-                        '           <div class="card" style="width: 80%; object-position: center; margin: auto; text-align: center; border-bottom: 1px solid yellow">\n' +
+                        '           <div class="card" style="width: 100%; object-position: center; margin: auto; text-align: center; border-bottom: 1px solid yellow">\n' +
                         '               <img src="public/' + experiences[a].img[0] + '"style="height: 50vh; object-fit: contain" class="card-img-top" alt="...">\n' +
                         '               <div class="card-body summary">\n' +
                         '                   <h3 class="d-block text-gray-dark">' + experiences[a].title + '</h3>' +
