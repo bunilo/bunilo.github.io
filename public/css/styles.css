@@ -1,3 +1,72 @@
+/*Mobile changes*/
+@media only screen and (max-width: 576px) {
+    .col-sm-12 {
+        width: 100% !important;
+    }
+    .col-sm-10 {
+        width: 83% !important;
+    }
+
+    #intro-title {
+        font-size: 33px !important;
+    }
+    .titles {
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 75px !important;
+    }
+    small {
+        font-size: 16px;
+    }
+    #navbarText {
+        font-size: 16px;
+    }
+    .nav-item {
+        width: 100%;
+    }
+    .navbar-nav {
+        flex-wrap: wrap;
+    }
+    .navbar-brand {
+        display: none;
+    }
+    #skip {
+        font-size: 20px;
+    }
+    .btn {
+        font-size: 24px;
+    }
+    .carousel-item {
+        height: 50vh;
+    }
+    p {
+        font-size: 16px;
+    }
+    .card-text {
+        font-size: 16px;
+    }
+    .link-secondary {
+        font-size: 16px;
+    }
+    .bi-linkedin {
+        width: 25px;
+        height: 25px;
+    }
+    .ul {
+        font-size: 25px;
+    }
+    .thumb {
+        width: 100% !important;
+    }
+    .thumb-title {
+        padding: 10px 50px;
+    }
+    .twist {
+        overflow-y: scroll;
+        padding: 10px !important;
+    }
+}
+
 #intro {
     background-color: #050505;
     height: 100vh;
@@ -69,7 +138,6 @@
     writing-mode: horizontal-tb;
     width: 100%;
     transition: 1s;
-    overflow: scroll;
 }
 
 .smoll {
@@ -182,37 +250,11 @@ small {
     width: 100%;
 }
 
-/*Mobile changes*/
-@media only screen and (max-width: 600px) {
-    #intro-title {
-        font-size: 115px;
-    }
-    .titles {
-        font-size: 50px;
-    }
-    #navbarText {
-        font-size: 23px;
-    }
-    #skip {
-        font-size: 40px;
-    }
-    .btn {
-        font-size: 24px;
-    }
-    .carousel-item > img {
-        height: 30vh !important;
-    }
-    p {
-        font-size: 25px;
-    }
-    .link-secondary {
-        font-size: 30px;
-    }
-    .bi-linkedin {
-        width: 25px;
-        height: 25px;
-    }
-    .ul {
-        font-size: 25px;
-    }
+.card {
+    border: none;
 }
+
+.titles {
+    margin-top: 15px;
+}
+
